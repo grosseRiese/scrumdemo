@@ -1,2 +1,2 @@
 # scrumdemo
-Agile - zcrum-demo
+Agile - scrum-demo
